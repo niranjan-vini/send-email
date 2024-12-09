@@ -1,6 +1,7 @@
 import streamlit as sg
 import pandas
 
+
 col1,col2=sg.columns(2)
 with col1:
     sg.image(".jpg")
